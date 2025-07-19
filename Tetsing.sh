@@ -1,3 +1,3 @@
 #!bin/bash
 
-echo"checking of the commitsssssssss"
+echo"checking of the commit$"
