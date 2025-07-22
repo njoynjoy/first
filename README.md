@@ -15,7 +15,18 @@ how the service string is converted into  required format is through ${service[@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="650" height="411" alt="image" src="https://github.com/user-attachments/assets/d79fcef2-19ae-4bde-8a7c-bab7556d8fbb" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
+
+how sed command works in linux
+sed is used for deleting the first and last line of the fie
+$d-- represents the last line of the file
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="662" height="436" alt="image" src="https://github.com/user-attachments/assets/8438216e-f971-4b79-b7c4-dc506fa68f6d" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
